@@ -11,7 +11,7 @@ class ApiConfig {
   /// Sign up at: https://openrouteservice.org/dev/#/signup
   /// 
   /// IMPORTANT: Replace this with your actual API key from OpenRouteService
-  static const String openRouteServiceApiKey = 'eyJvcmciOiI1YjNjZTM1OTc4NTExMTAwMDFjZjYyNDgiLCJpZCI6IjMwNGFlNjE5NGVkZDQ5MzE4YmQzNmU4Y2VlMDQ0YWFlIiwiaCI6Im11cm11cjY0In0=';
+  static const String openRouteServiceApiKey = 'YOUR_API_KEY_HERE';
   
   /// Base URL for OpenRouteService walking directions API
   static const String openRouteServiceBaseUrl = 'https://api.openrouteservice.org/v2/directions/foot-walking';
