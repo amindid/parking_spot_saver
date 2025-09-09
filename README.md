@@ -76,5 +76,9 @@ lib/
 ├── screens/                     # App screens
 └── widgets/                     # Reusable UI components
 ```
-<img width="247" height="836" alt="Screenshot from 2025-05-14 09-51-47" src="https://github.com/user-attachments/assets/68fdefd1-53a3-4c41-8635-2e124ecd67c7" />
+<img width="460" height="930" alt="Screenshot from 2025-09-09 19-05-02" src="https://github.com/user-attachments/assets/3f27286b-b2dc-4e3b-9f68-ca479e9a98b5" />
+<img width="460" height="930" alt="Screenshot from 2025-09-09 19-05-24" src="https://github.com/user-attachments/assets/4cb1605b-c394-480a-8c12-28ebca06c950" />
+<img width="460" height="930" alt="Screenshot from 2025-09-09 19-05-41" src="https://github.com/user-attachments/assets/8ea5d4bc-82f9-49b7-bd75-3ba1d1b6a4ae" />
+<img width="460" height="930" alt="Screenshot from 2025-09-09 19-05-59" src="https://github.com/user-attachments/assets/0a42c4f9-aa71-4a27-8d23-37d339b14b12" />
+<img width="460" height="930" alt="Screenshot from 2025-09-09 19-06-34" src="https://github.com/user-attachments/assets/7b0270ab-a7ae-4687-a5e4-d62833a687a0" />
 
