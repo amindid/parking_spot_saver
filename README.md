@@ -2,7 +2,9 @@
 
 A Flutter mobile app that helps you save and navigate back to your parked car location using GPS and OpenStreetMap.
 
-## Features
+---
+
+## ✨ Features
 
 - **Save parking spots** - Current GPS location or manually select on map
 - **Multiple parking spots** - Save and manage multiple locations
@@ -11,16 +13,34 @@ A Flutter mobile app that helps you save and navigate back to your parked car lo
 - **Share locations** - Copy coordinates or Google Maps links
 - **Device preview** - Test on multiple screen sizes in development
 
-## Screenshots
+---
 
-The app includes:
-- Interactive map with your current location and saved parking spots
-- SpeedDial menu for quick access to save options
-- Bottom sheet with spot details and navigation options
-- Photo capture and gallery selection
-- Clean message system with proper positioning
+## 📸 Screenshots
 
-## How to Run
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/3f27286b-b2dc-4e3b-9f68-ca479e9a98b5">
+    <img width="220" src="https://github.com/user-attachments/assets/3f27286b-b2dc-4e3b-9f68-ca479e9a98b5" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/4cb1605b-c394-480a-8c12-28ebca06c950">
+    <img width="220" src="https://github.com/user-attachments/assets/4cb1605b-c394-480a-8c12-28ebca06c950" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/8ea5d4bc-82f9-49b7-bd75-3ba1d1b6a4ae">
+    <img width="220" src="https://github.com/user-attachments/assets/8ea5d4bc-82f9-49b7-bd75-3ba1d1b6a4ae" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/0a42c4f9-aa71-4a27-8d23-37d339b14b12">
+    <img width="220" src="https://github.com/user-attachments/assets/0a42c4f9-aa71-4a27-8d23-37d339b14b12" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/7b0270ab-a7ae-4687-a5e4-d62833a687a0">
+    <img width="220" src="https://github.com/user-attachments/assets/7b0270ab-a7ae-4687-a5e4-d62833a687a0" />
+  </a>
+</p>
+
+---
+
+## 🛠 How to Run
 
 ### Prerequisites
 - Flutter SDK (>=3.10.0)
@@ -52,13 +72,17 @@ flutter run -d chrome
 ```
 This opens a device preview interface where you can test different screen sizes and orientations.
 
-## Permissions
+---
+
+## 🔐 Permissions
 
 The app automatically requests:
 - **Location permission** - To find and save your parking location
 - **Camera permission** - To add photos to parking spots (optional)
 
-## Technology Stack
+---
+
+## 🧑‍💻 Technology Stack
 
 - **Flutter** - Cross-platform mobile framework
 - **OpenStreetMap** - Free map tiles (no API key needed)
@@ -66,7 +90,9 @@ The app automatically requests:
 - **Image Picker** - Camera and gallery access
 - **Shared Preferences** - Local data storage
 
-## Project Structure
+---
+
+## 📂 Project Structure
 
 ```
 lib/
@@ -76,9 +102,3 @@ lib/
 ├── screens/                     # App screens
 └── widgets/                     # Reusable UI components
 ```
-<img width="460" height="930" alt="Screenshot from 2025-09-09 19-05-02" src="https://github.com/user-attachments/assets/3f27286b-b2dc-4e3b-9f68-ca479e9a98b5" />
-<img width="460" height="930" alt="Screenshot from 2025-09-09 19-05-24" src="https://github.com/user-attachments/assets/4cb1605b-c394-480a-8c12-28ebca06c950" />
-<img width="460" height="930" alt="Screenshot from 2025-09-09 19-05-41" src="https://github.com/user-attachments/assets/8ea5d4bc-82f9-49b7-bd75-3ba1d1b6a4ae" />
-<img width="460" height="930" alt="Screenshot from 2025-09-09 19-05-59" src="https://github.com/user-attachments/assets/0a42c4f9-aa71-4a27-8d23-37d339b14b12" />
-<img width="460" height="930" alt="Screenshot from 2025-09-09 19-06-34" src="https://github.com/user-attachments/assets/7b0270ab-a7ae-4687-a5e4-d62833a687a0" />
-
